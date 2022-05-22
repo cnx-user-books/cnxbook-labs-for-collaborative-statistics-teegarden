@@ -1,0 +1,191 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Confidence Intervals: Confidence Interval Lab I (edited: Teegarden)</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>a7515b0f-0a4e-4bf5-b3af-7a31fedd343e</md:uuid>
+</metadata>
+  <content>
+    <para id="id3282603">Class Time: </para>
+    <para id="id9826831">Name:</para>
+    <section id="element-493"><title>Student Learning Outcomes: </title>
+<list id="element-712" list-type="bulleted"><item>The student will calculate the 90% confidence interval for the average cost of a home in the area in which this school is located.</item>
+      <item>The student will interpret confidence intervals.</item>
+      <item>The student will examine the effects that changing conditions has on the confidence interval.</item>
+    </list></section>
+    
+    <section id="element-300"><title>Collect the Data</title><para id="element-458">Check the Real Estate section in your local newspaper or website. (Note: many papers only list them
+one day per week. Also, we will assume that homes come up for sale randomly.) Record the
+sales prices for 35 randomly selected homes recently listed in the county.
+</para>
+<list id="list-87564324" list-type="enumerated"><item>Complete the table:
+<table id="tableone32" summary="Blank table of 35 empty cells">
+
+			<tgroup cols="5">
+				<tbody>
+					<row>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+					</row>
+					<row>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+					</row>
+					<row>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+					</row>
+					<row>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+					</row>
+					<row>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+					</row>
+					<row>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+					</row>
+					<row>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+						<entry>__________</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+	</item>
+	</list></section><section id="element-763"><title>Describe the Data</title><list id="list-98326954" list-type="enumerated" mark-suffix="."><item> Compute the following:
+<list id="list-234758" list-type="labeled-item" mark-suffix=".">
+			<item><label>a</label>
+				<m:math>
+					<m:apply>
+						<m:conjugate/>
+						<m:ci>x</m:ci>
+					</m:apply>
+				</m:math>
+=</item>
+			<item><label>b</label>
+				<m:math>
+					<m:msub>
+						<m:mi>s</m:mi>
+						<m:mi>x</m:mi>
+					</m:msub>
+				</m:math>
+=</item>
+			<item><label>c</label>
+				<m:math>
+					<m:mi>n</m:mi>
+				</m:math>
+=</item>
+		</list>
+	</item>
+	<item>Define the Random Variable <m:math>
+			<m:apply>
+				<m:conjugate/>
+				<m:ci>X</m:ci>
+			</m:apply>
+		</m:math>,
+in words.
+<m:math>
+			<m:apply>
+				<m:conjugate/>
+				<m:ci>X</m:ci>
+			</m:apply>
+		</m:math>
+=</item>
+	<item> State the estimated distribution to use. Use both words and symbols.</item>
+</list></section><section id="element-434"><title>Find the Confidence Interval</title><list id="list-97258644" list-type="enumerated" mark-suffix="."><item>Calculate the confidence interval and the error bound.
+<list id="list-927354875234" list-type="labeled-item" mark-suffix=".">
+			<item><label>a</label>Confidence Interval:</item>
+			<item><label>b</label>Error Bound:</item>
+		</list>
+	</item>
+	<item>How much area is in both tails (combined)? <m:math><m:mi>α</m:mi></m:math> =</item>
+	<item>How much area is in each tail?
+<m:math>
+			<m:mfrac>
+				<m:mi>α</m:mi>
+				<m:mn>2</m:mn>
+			</m:mfrac>
+		</m:math>
+=</item>
+	<item>Fill in the blanks on the graph with the area in each section. Then, fill in the number
+line with the upper and lower limits of the confidence interval and the sample mean.
+<figure id="idm5898016"><media id="idp4662544" alt="Normal distribution curve with two vertical upward lines from the x-axis to the curve. The confidence interval is between these two lines. The residual areas are on either side."><image src="../../media/wave.png" mime-type="image/png" print-width="3in"/></media></figure>
+</item>
+	<item>Some students think that a 90% confidence interval contains 90% of the data. Use the list of data on the
+first page and count how many of the data values lie within the confidence interval. What percent is this?
+Is this percent close to 90%? Explain why this percent should or should not be close to 90%.</item>
+
+<item>How many house prices would be needed in the sample to ensure that the error was no more than $2000 for the 90% confidence interval?</item>
+
+</list></section><section id="element-767"><title>Describe the Confidence Interval</title><list id="list-23875744" list-type="enumerated">
+<item>In two to three complete sentences, explain what a Confidence Interval means (in general),
+as if you were talking to someone who has not taken statistics.</item>
+<item>In one to two complete sentences, explain what this Confidence Interval means for this
+particular study.</item>
+</list></section><section id="element-153"><title>Use the Data to Construct Confidence Intervals</title><list id="list-89758644" list-type="enumerated">
+<item>Using the above information, construct a confidence interval for each confidence level given.<table id="id3675asdffgh75848jhgf538" summary="Partially blank table with confidence level in the first column, EBM/Error Bound in the blank second column, and confidence interval in the blank third column.">
+
+			<tgroup cols="3"><colspec colnum="1" colname="header_c1"/>
+				<colspec colnum="2" colname="c2"/>
+				<colspec colnum="3" colname="c3"/>
+				<thead>
+					<row>
+						<entry>Confidence level</entry>
+						<entry>EBM / Error Bound</entry>
+						<entry>Confidence Interval</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry align="center">50%</entry>
+						<entry/>
+						<entry/>
+					</row>
+					<row>
+						<entry align="center">80%</entry>
+						<entry/>
+						<entry/>
+					</row>
+					<row>
+						<entry align="center">95%</entry>
+						<entry/>
+						<entry/>
+					</row>
+					<row>
+						<entry align="center">99%</entry>
+						<entry/>
+						<entry/>
+					</row>
+				</tbody>
+			</tgroup>
+		</table></item>
+	<item>What happens to the EBM as the confidence level increases? Does the width of the confidence interval increase or decrease? Explain why this happens.</item>
+</list>
+</section><section id="element-133"><title>Effect of an Outlier</title>
+<para id="element-886">Suppose one of the values input incorrectly.  Choose one data value and increase the amount by adding two extra zeroes.  
+</para><list id="element-903" list-type="enumerated"><item>Calculate the 90% confidence interval: _____________</item>
+<item>Calculate the Error Bound: ____________</item>
+<item>How does the outlier effect the width of the confidence interval?</item></list></section>
+  </content>
+</document>

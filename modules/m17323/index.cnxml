@@ -1,0 +1,214 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Candy Lab</title>
+  <metadata>
+  <md:content-id>m17323</md:content-id><md:title>Candy Lab</md:title>
+  <md:abstract>This lab allows students to practice and demonstrate techniques used to generate systematic samples.  Students will have the opportunity to create relative frequency tables and interpret results based on different data groupings. Labs modified to include minitab usage.  This replaces the Chapter 1, Lab 1 from the Collaborative Statistics by Dean and Illowsky.</md:abstract>
+  <md:uuid>44fc0d8b-0217-4cd4-b6d4-f1d86f28f9ec</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="m16004_Lab_I_download.pdf" strength="3">Download handout (.pdf)</link>
+      <link url="m16004_Lab_I_download.doc" strength="3">Download handout (.doc)</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <para id="id8930939">
+      <emphasis>Candy Lab</emphasis>
+    </para>
+    <para id="id7232989">Name: <emphasis effect="underline"/></para>
+    <section id="id1165108854230">
+      <title>Student Learning Outcomes</title>
+      <list id="id7126534" list-type="bulleted">
+        <item>The student will construct Relative Frequency Tables.</item>
+        <item>The student will interpret results and their differences from different data groupings.</item>
+        <item>The student will illustrate the data using pie charts and bar graphs.</item>
+      </list>
+      <section id="id1165119706442">
+        <title>General Directions</title>
+        <para id="id8462900">In class, answer the initial questions on the lines provided and complete the tables. The write-up questions should be answered in <emphasis effect="bold">paragraph form</emphasis> and typed. The graphs must be generated in Minitab and may then be copied into the write-up or attached at the end of the lab. To save paper, please copy the graphs and paste them into Word so that more than one graph can be printed per page.</para>
+      </section>
+    </section>
+    <section id="id1165124430862">
+      <title>Data Collection</title>
+      <para id="id1165107406484">Before you open your candy, make you first prediction about the distribution of the colors of this candy. This prediction will be made with no knowledge about the color distribution except your personal experience. (There are no wrong answers.)</para>
+      <para id="id1165112124564">1. How many candies do you think there are in your package? <emphasis effect="underline"/></para>
+      <para id="id6538725">2. Which color do you think will occur the most often? <emphasis effect="underline"/></para>
+      <para id="id1165108730640">3. Which color do you think will occur the least? <emphasis effect="underline"/></para>
+      <section id="id1165119931202">
+        <title>Open your candy and sort them by color. DO NOT EAT ANY AT THIS TIME!</title>
+        <para id="id5948550">1. How many candies do you have? <emphasis effect="underline"/></para>
+        <para id="id1165108856532">2. Which color occurred the most often? <emphasis effect="underline"/></para>
+        <para id="id1165108705546">3. Which color occurred the least? <emphasis effect="underline"/></para>
+        <para id="id1165111124207">4. Based on your individual sample, what do you think the actual color distribution is for this candy? Predict a % for each color and explain your reasoning. You can only base your prediction on what you see in your sample, not what you know about the candy.</para>
+        <para id="id1165124135846"><emphasis>YOU MAY NOW EAT YOUR CANDY NOW</emphasis>
+        </para>
+      </section>
+    </section>
+    <section id="id1165111800514">
+      <title>Summarizing the Data</title>
+      <para id="id1165120046843">Complete the three relative frequency tables below using your personal data, your group data and the class data.</para>
+    </section>
+    <section id="id2666132">
+      <section id="id1165108637150">
+        <title>Individual Bag Frequency Table</title>
+        <table id="id1165122138834" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Color</entry>
+                <entry>Frequency</entry>
+                <entry>Relative Frequency</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id8648183">
+        <title>Group Color Frequency Table</title>
+        <table id="id1614355" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Color</entry>
+                <entry>Frequency</entry>
+                <entry>Relative Frequency</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+    <section id="id1165116426916">
+      <section id="id8360920">
+        <title>Class Frequency Table</title>
+        <table id="id2148026" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>Color</entry>
+                <entry>Frequency</entry>
+                <entry>Relative Frequency</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id8585379">
+        <title>Graphs</title>
+        <para id="id6538483">1. Illustrate the data for each set (individual, group, class) by inputting the colors in C1, individual frequencies in C2, group frequencies in C3, and class frequencies in C4 and create a pie and bar chart for each.</para>
+        <para id="id7838756">2. You may copy the graphs into the write-up or attach them to your Lab. If you choose not to include the graphs in the body of the write-up, please copy and paste them into a Word document so as not to printout 6 pages of graphs.</para>
+      </section>
+      <section id="id1165121778173">
+        <title>Write – up </title>
+        <para id="id1291773">Answer the following questions in paragraph form. To compare/contrast the data you should refer to at least three key values. Either where the data is similar or where it is very different. Be sure to use the information from your charts and graphs to justify your statements using the data.</para>
+        <para id="id1165112064279">1. Using the tables and graphs, compare/contrast the results for <emphasis effect="bold">your data and the group's combined data</emphasis>. Use at least three examples to justify your answer.</para>
+        <para id="id3656210">2. Using the tables and graphs, compare/contrast the results for <emphasis effect="bold">your data and the class' combined data</emphasis>. Use at least three examples to justify your answer.</para>
+        <para id="id7736738">3. Using the tables and graphs, compare/contrast the results for <emphasis effect="bold">the group's combined data and the class’ combined data. </emphasis>Use at least three examples to justify your answer.</para>
+        <para id="id1165109573671">4. Which of the three data sets would you use to best predict the distribution of colors for this candy? Why? What would you predict the actual distribution for this candy may be?</para>
+      </section>
+    </section>
+  </content>
+</document>

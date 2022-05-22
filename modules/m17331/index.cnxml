@@ -1,0 +1,106 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Linear Regression and Correlation: Regression Lab II (edited: Teegarden)</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>a55b218b-4d56-41d5-a7fd-a46616ba93a6</md:uuid>
+</metadata>
+  <content>
+    <para id="id7766414">Class Time: </para>
+    <para id="id7717848">Name:</para>
+    <section id="id-877017306257">
+      <title>Student Learning Outcomes: </title>
+      <list list-type="bulleted" id="id4900601">
+        <item>The student will calculate and construct the line of best fit between two variables.</item>
+        <item>The student will evaluate the relationship between two variables to determine if that relationship is significant. </item>
+      </list>
+    </section>
+<section id="element-377"><title>Collect the Data</title><para id="element-7">Survey 10 textbooks. Collect bivariate data (number of pages in a textbook, the cost of the
+textbook).</para>
+<list id="list-238765865" list-type="enumerated"><item>Complete the table.
+<table id="id7895697570" summary="The blank table has number of pages in the first column and cost of textbook in the second column. 20 empty cells.">
+
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+					<colspec colnum="2" colname="c2"/>
+					<thead>
+						<row>
+							<entry>Number of pages</entry>
+							<entry>Cost of textbook</entry>
+						</row>
+</thead>
+<tbody>
+						<row>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+						</row>
+						<row>
+							<entry/>
+							<entry/>
+						</row>
+					</tbody>
+				
+</tgroup>
+</table></item>
+	<item>Which variable should be the dependent variable and which should be the independent
+variable? Why?</item>
+	<item>Graph “number of pages” vs. “cost.” Plot the points on the graph. Label both axes with
+words. Scale both axes.<figure id="idp2322752"><media id="idm2839920" alt="Blank graph with vertical and horizontal axes."><image src="../../media/graph12.PNG" mime-type="image/png" print-width="4in"/></media></figure>Does there appear to be a relationship between the size of the book and it's cost?</item>
+</list></section><section id="element-10"><title>Analyze the Data</title><para id="element-765474">Enter your data into your MiniTab.
+Record the following information.</para>
+
+<list id="element-328" list-type="enumerated"><item>correlation coefficient = ___________</item>
+<item>p-value = ___________</item>
+<item>Is three significant correlation to use a regression line?</item></list><list id="list-863524" list-type="enumerated" mark-suffix="."><item> Calculate the following:
+<list id="list-7528634" list-type="labeled-item" mark-suffix=".">
+			<item><label>a</label><m:math>
+					<m:mi>a</m:mi></m:math> =</item>
+			<item><label>b</label>
+				<m:math><m:mi>b</m:mi>
+				</m:math> =</item>
+			
+			<item><label>c</label>
+				<m:math><m:mi>n</m:mi></m:math> =</item>
+			<item><label>d</label> equation: <m:math><m:mi>y</m:mi></m:math>
+=</item>
+			
+		</list></item>
+	
+	<item>Obtain the graph using Minitab. Sketch the regression line below.<figure id="idp6759696"><media id="idp1897360" alt="Blank graph with vertical and horizontal axes."><image src="../../media/graph12.PNG" mime-type="image/png" print-width="4in"/></media></figure></item>
+<item>Supply an answer for the following senarios:
+<list id="list-986234" list-type="labeled-item" mark-suffix=".">
+			<item><label>a</label>For a textbook with 400 pages, predict the cost:</item>
+<item><label>b</label>
+For a textbook with 600 pages, predict the cost:</item></list></item>
+</list></section><section id="element-414"><title>Discussion Questions</title><list id="list-74763" list-type="enumerated" mark-suffix="."><item>Answer each with 1-3 complete sentences. <list id="list2524" list-type="labeled-item" mark-suffix=".">
+			<item><label>a</label>Does the line seem to fit the data?
+Why?</item>
+			<item><label>b</label>What does the correlation imply about the relationship between the number of pages
+and the cost?</item></list></item>
+	<item>
+			Are there any outliers? If so, which point(s) is an outlier? </item>
+	<item>Should the outlier, if it exists, be removed? Why or why not?</item></list></section>
+
+    
+  </content>
+</document>

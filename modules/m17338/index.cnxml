@@ -1,0 +1,57 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Normal Distribution: Normal Distribution Lab I (edited: Teegarden)</title>
+  <metadata>
+  <md:content-id>m17338</md:content-id><md:title>Normal Distribution: Normal Distribution Lab I (edited: Teegarden)</md:title>
+  <md:abstract>Labs changed to incorporate mini-tabs.</md:abstract>
+  <md:uuid>1e79814c-7d1c-4abe-90de-1d1b485f403a</md:uuid>
+</metadata>
+
+<content>
+    <para id="id4978964">
+      <emphasis>Normal Distribution Lab</emphasis>
+    </para>
+    <para id="id3455954">Name: <emphasis effect="underline"/></para>
+    <section id="id6035366">
+      <title>I Student Learning Outcome:</title>
+      <para id="id7768100">* The student will compare and contrast empirical data and a theoretical distribution. </para>
+      <para id="id3919219">* Find Probabilities for specific Normal Distributions</para>
+    </section>
+    <section id="id3131465">
+      <title>II The Situation</title>
+      <para id="id1169036152731">It is generally accepted that the mean body temperature is 98.6 degrees. If a sample of size 100 resulted in a sample mean of 98.3 degrees with a standard deviation of 0.64 degrees. Does this sample suggest that the mean body temperature is actually lower than 98.6 degrees?</para>
+    </section>
+    <section id="id5043400">
+      <title>III Simulation: To answer the question, complete the following simulation.</title>
+      <para id="id3969961">Using Minitab (Calc -&gt; Random Data-&gt; Normal), generate 100 values from a normally distributed population with a mean of 98.6 degrees and a standard deviation of 0.64 degrees (using the sample standard deviation given in the situation since the population deviation is unknown). Repeat the simulation 9 more times for a total of 10. (Requesting the data be stored in c2-c10 will generate the remaining 9 columns of data with one command. ) </para>
+    </section>
+    <section id="id3594703">
+      <title>IV Data Collection</title>
+      <para id="id2392555">Use Stats -&gt; Basic Stats -&gt; Display Descriptive and select all 10 columns to determine the sample mean for each data set. Record the values below and include the session window with this lab. </para>
+      <para id="id5830436"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {overline  {x}}  rSub { size 8{1} } } {}</m:annotation></m:semantics></m:math> = _________ 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {overline  {x}}  rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> = _________ 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {overline  {x}}  rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> = _________ 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {overline  {x}}  rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> = _________ </para>
+      <para id="id5068869"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {overline  {x}}  rSub { size 8{1} } } {}</m:annotation></m:semantics></m:math> = _________ 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {overline  {x}}  rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> = _________ 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mn>7</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {overline  {x}}  rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> = _________ 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {overline  {x}}  rSub { size 8{4} } } {}</m:annotation></m:semantics></m:math> = _________ </para>
+      <para id="id4444640"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mn>9</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {overline  {x}}  rSub { size 8{1} } } {}</m:annotation></m:semantics></m:math> = _________ 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mn>10</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {overline  {x}}  rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> = _________ </para>
+    </section>
+    <section id="id7710267">
+      <title>V Analyze the Data – Using complete sentences. </title>
+      <para id="id4963009">Based on your simulation, do you think that a sample of size 100 with a mean temperature of 98.3 is reasonable? Answer using 2 – 3 complete sentences.</para>
+    </section>
+    <section id="id3940604">
+      <title>VI Finding Probabilities for Normal Distribution</title>
+      <para id="id1169036096908">For each of the following, first write the question in <emphasis effect="bold">symbolic form</emphasis> and then using Minitab (Calc -&gt; Probability Distributions -&gt; Normal), find the probabilities. (attach your session window to this lab)_____________________</para>
+      <para id="id2507753">1. Given a population with a normal distribution, a mean of 0, and a standard deviation of 1, find the probability of a value less than 1.25 <emphasis effect="underline"/> _____________________</para>
+      <para id="id4100080">2. Given a population with a normal distribution, a mean of 25, and a standard deviation of 3, find the probability of a value greater than 21.25.<emphasis effect="underline"/>_____________________</para>
+      <para id="id1169037123420">3. Given a population with a normal distribution, a mean of 100, and a standard deviation of 20, find the probability of a value between 87 and 122.<emphasis effect="underline"/>_____________________</para>
+      <para id="id5450383">4. Given a population with a normal distribution, a mean of 150, and a standard deviation of 35, what value has an area of 0.34 to the left?<emphasis effect="underline"/>_____________________</para>
+      <para id="id5302375">5. Given a population with a normal distribution, a mean of 150, and a standard deviation of 35, what value has an area of 0.34 to the right?<emphasis effect="underline"/>_____________________</para>
+      <para id="id1169037014868">6. Given a population with a normal distribution, a mean of 15, and a standard deviation of 2, what value has an area of 0.8 to the left?<emphasis effect="underline"/>_____________________</para>
+      <para id="id1211539">7. Given a population with a normal distribution, a mean of 200, and a standard deviation of 15, which two values form the upper and lower boundary of the middle 80%?___________________</para>
+    </section>
+  </content>
+</document>

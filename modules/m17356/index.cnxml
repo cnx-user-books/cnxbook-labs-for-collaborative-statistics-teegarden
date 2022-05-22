@@ -1,0 +1,54 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Collaborative Statistics: Group Project - Teegarden</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>307a64a8-f3b4-4891-b629-bd1e68553366</md:uuid>
+</metadata>
+  <content>
+    <section id="element-517"><title>Student Learning Objectives</title>
+<list id="element-599" list-type="bulleted"><item>The student will identify a hypothesis testing problem in print.</item>
+<item>The student will conduct a survey to verify or dispute the results of the hypothesis test.</item>
+<item>The student will summarize the article, analysis, and conclusions in a report.</item></list></section><section id="element-708"><title>Instructions</title>
+<para id="element-262">As you complete each task below, check it off.  Answer all questions in your summary.  
+
+This project may be done in pairs or a group of three.  Be sure to ensure that all the students participate equally in the work.
+
+This project is worth 20% of your final grade.</para><list id="element-964" list-type="labeled-item" mark-suffix=""><item><label>____</label><emphasis>Find an article</emphasis> in a newspaper, magazine or on the internet which makes a claim about <emphasis>ONE</emphasis> population mean or <emphasis>ONE</emphasis> population proportion.  The claim may be based upon a survey that the article was reporting on.  Decide whether this claim is the null or alternate hypothesis.</item>
+
+<item><label>____</label><emphasis>Copy or print out the article</emphasis> and include a copy in your project, along with the source.</item>
+
+<item><label>____</label><emphasis>State how you will collect your data.</emphasis> (Convenience sampling is not acceptable.)</item>
+
+<item><label>____</label><emphasis>Conduct your survey.  You must have more than 50 responses in your sample.</emphasis>  When you hand in your final project, attach the tally sheet or the packet of questionnaires that you used to collect data.  Your data must be real.</item>
+<item><label>____</label><emphasis>State the statistics</emphasis> that are a result of your data collection: sample size, sample mean, and sample standard deviation, OR sample size and number of successes.</item>
+
+<item><label>____</label><emphasis>Make 2 copies of the appropriate solution sheet.</emphasis></item>
+
+<item><label>____</label><emphasis>Record the hypothesis test</emphasis> on the solution sheet, based on your experiment.  <emphasis>Do a DRAFT solution</emphasis> first on one of the solution sheets and check it over carefully.  Have a classmate check your solution to see if it is done correctly.  Make your decision using a 5% level of significance.  Include the 95% confidence interval on the solution sheet.</item>
+
+<item><label>____</label><emphasis>Create at least two different graphs to illustrate your data.</emphasis> This may be a pie or bar chart or may be a histogram or box plot, depending on the nature of your data.  Produce graphs that makes sense for your data and gives useful visual information about your data.  Include an analysis of the graphs in your summary. </item>
+
+<item><label>____</label><emphasis>Write your summary</emphasis> (in complete sentences and paragraphs, with proper grammar and correct spelling) that describes the project.  The summary <emphasis>MUST</emphasis> include:
+<list id="list-964" list-type="labeled-item" mark-suffix="."> 
+<item><label>1</label>Brief discussion of the article, including the source. </item>
+<item><label>2</label>Statement of the claim made in the article (one of the hypotheses).</item>
+<item><label>3</label>Detailed description of how, where, and when you collected the data, including the sampling technique.  Did you use cluster, stratified, systematic, or simple random sampling (using a random number generator)? As stated above, convenience sampling is not acceptable.</item>
+<item><label>4</label>Discuss the shape of your data and the relevant inforamition obtained from your graphs.</item>
+<item><label>5</label>Conclusion about  the article claim in light of your hypothesis test.   This is the conclusion of your hypothesis test, stated in words, in the context of the situation in your project in sentence form, as if you were writing this conclusion for a non-statistician.</item>
+<item><label>6</label>Sentence interpreting your confidence interval in the context of the situation in your project.</item>
+
+
+</list>
+
+
+
+</item></list></section>
+<section id="element-253"><title>Assignment Checklist</title>
+<para id="element-22">Turn in the following typed (12 point) and stapled packet for your final project:</para><list id="element-731" list-type="labeled-item" mark-suffix=""><item><label>____</label><emphasis>Cover sheet</emphasis> containing your name(s), class time, and the name of your study.</item>
+<item><label>____</label><emphasis>Summary</emphasis>, which includes all items listed on summary checklist.</item>
+<item><label>____</label><emphasis>Solution sheet</emphasis> neatly and completely filled out.  The solution sheet does not need to be typed.</item>
+<item><label>____</label><emphasis>Graphic representation of your data</emphasis>, created following the guidelines discussed above. Include only graphs which are appropriate and useful.</item>
+<item><label>____</label><emphasis>Raw data collected AND a table summarizing the sample data</emphasis> (n, xbar and s; or x, n, and p’, as appropriate for your hypotheses).  The raw data does not need to be typed, but the summary does. Hand in the data as you collected it.  (Either attach your tally sheet or an envelope containing your questionnaires.)  </item>
+</list>   
+</section>
+  </content>
+  
+</document>

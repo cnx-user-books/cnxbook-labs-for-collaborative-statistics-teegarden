@@ -1,0 +1,52 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The Chi-Square Distribution: Lab I (edited: Teegarden)</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>e04fec54-9fd8-4096-8240-a01aefe3cd0c</md:uuid>
+</metadata>
+  <content>
+    <para id="id5380446">Class Time: </para>
+    <para id="id5380454">Name:</para>
+    <section id="id-68245180303">
+      <title>Student Learning Outcome: </title>
+      <list id="id5380464" list-type="bulleted"><item>The student will evaluate data collected to determine if they fit either a uniform distribution. </item>
+      </list>
+    </section>
+    <section id="element-608"><title>Collect the Data</title><para id="element-875862734">Three car-pooling students claimed that they missed their statistics test because they had a flat tire.  On the make-up test the instructor asked them to identify the particular tire that went flat.  The instructor assumed that the distribution would be uniform.  To test this assumption,survey the class to determine the number the which tire they would select.
+</para><table id="element-380" summary="">
+<tgroup cols="5"><tbody>
+  <row>
+    <entry>Tire</entry>
+    <entry>Left Front</entry>
+    <entry>Left Rear</entry>
+    <entry>Right Front</entry>
+    <entry>Right Rear</entry>
+  </row>
+  <row>
+    <entry>Number Selected</entry>
+    <entry/>
+    <entry/>
+    <entry/>
+    <entry/>
+  </row>
+</tbody>
+</tgroup>
+</table>
+
+</section><section id="element-871"><title>Hypothesis Test</title><para id="element-52">Conduct a hypothesis test to determine if the selection of a tire fits a Uniform Distribution.
+</para>
+<list id="list-76474" list-type="enumerated"><item> <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{o} } } {}</m:annotation></m:semantics></m:math>:
+</item>
+<item>
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>H</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>a</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{H rSub { size 8{a} } } {}</m:annotation></m:semantics></m:math>:</item>
+	
+	<item>Calculate the test statistic.</item>
+	<item>Find the 
+p-value.</item>
+	<item>Sketch a graph of the situation. Label and scale the x-axis. Shade the area corresponding to the 
+p-value. <figure id="idp3637680"><media id="idp6578928" alt="Blank graph with vertical and horizontal axes."><image src="../../media/graph12.PNG" mime-type="image/png" print-width="4in"/></media></figure>
+	</item>
+	<item>State your decision. </item>
+	<item>State your conclusion in a complete sentence. </item>
+<item>If in fact the students did not have a flat tire, do you think they will be caught out?  Explain. </item>
+</list></section>
+  </content>
+</document>

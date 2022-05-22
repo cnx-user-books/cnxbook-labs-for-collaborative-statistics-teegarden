@@ -1,0 +1,70 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Continuous Random Variables: Lab I</title>
+  <metadata>
+  <md:content-id>m17348</md:content-id><md:title>Continuous Random Variables: Lab I</md:title>
+  <md:abstract>In this lab exercise, students will compare and contrast empirical data using Minitab with the Uniform Distribution.
+Note: This module is based on a student being able to access the Minitab statistical program.
+This modu</md:abstract>
+  <md:uuid>b5d4f6a0-4c61-466b-8fc1-129435906bbc</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1169367027716">
+      <emphasis>Continuous Distribution Lab</emphasis>
+    </para>
+    <para id="id1169367216100">Name: <emphasis effect="underline"/></para>
+    <section id="id1169371381076">
+      <title>I - Student Learning Outcomes:</title>
+      <para id="id1169375381343">• The student will compare and contrast empirical data from a random number generator with the Uniform Distribution.</para>
+    </section>
+    <section id="id3589577">
+      <title>II - Theoretical Distribution</title>
+      <para id="id6899404">The theoretical distribution of X is X~U (0, 1). Use it for this part. In theory, </para>
+      <para id="id5185922">μ = _________ σ = _________ 1<sup>st</sup> quartile = _________</para>
+      <para id="id1169375406503">40th percentile = _________ 3rd quartile = _________Median = _________</para>
+    </section>
+    <section id="id1169374378209">
+      <title>III Collect the Data</title>
+      <para id="id7657479">
+        <emphasis>Use Minitab to generate 100 values between 0 and 1 (inclusive). (Calc </emphasis>
+        <emphasis>→</emphasis>
+        <emphasis> Random Data </emphasis>
+        <emphasis>→</emphasis>
+        <emphasis> Uniform) Using Minitab, calculate the following (include the session window):</emphasis>
+      </para>
+      <para id="id1169377829966"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {overline  {x}} } {}</m:annotation></m:semantics></m:math> = _________ s = _________ 1<sup>st</sup> quartile = _________ </para>
+      <para id="id1169375104306">40th percentile = _________ (justify) 3rd quartile = _________ median = _________</para>
+    </section>
+    <section id="id1169370157462">
+      <title>IV - Comparing the Data</title>
+      <para id="id1169376672097">1. For each part below, use a complete sentence to comment on how the value obtained from the experimental data (see part III) compares to the theoretical value you expected from the distribution in section II. (<emphasis effect="bold">How it is reflected in the corresponding data. Be specific!</emphasis>)</para>
+      <para id="id1169366958963">a. minimum value:  </para>
+      <para id="id1169366407809">b. first quartile:</para>
+      <para id="id8911019">c. median:</para>
+      <para id="id1169377742267">d. third quartile </para>
+      <para id="id1169366498332">e. maximum value:</para>
+      <para id="id1169367357486">f. width of IQR:</para>
+      <para id="id1169374516827">V - Plotting the Data and Interpreting the Graphs.</para>
+      <para id="id1169370324983">1. What does the probability graph for the theoretical distribution look like? Draw it here and label the axis.</para>
+      <para id="id1169364019241">2. Use Minitab to construct a histogram a using 5 bars and density as the y-axis value. Be sure to attach the graphs to this lab. </para>
+      <para id="id1169364586928">a. Describe the shape of the histogram. Use 2 - 3 complete sentences. (Keep it simple. Does the graph go straight across, does it have a V shape, does it have a hump in the middle or at either end, etc.? One way to help you determine the shape is to roughly draw a smooth curve through the top of the bars.)</para>
+      <para id="id1169375244196">b. How does this histogram compare to the graph of the theoretical uniform distribution? Draw the horizontal line which represents the theoretical distribution on the histogram for ease of comparison. Be sure to use 2 – 3 complete sentences.</para>
+      <para id="id1169367167783">3. Draw the box plot for the theoretical distribution and label the axis.</para>
+      <para id="id7384638"/>
+      <para id="id1169361866446">4. Construct a box plot of the experimental data using Minitab and attach the graph.</para>
+      <para id="id1169364192983">a. Do you notice any potential outliers? _________</para>
+      <para id="id3524110"> If so, which values are they? _________</para>
+      <para id="id2103548">b. Numerically justify your answer using the appropriate formulas.</para>
+      <para id="id1169375405864">c. How does this plot compare to the box plot of the theoretical uniform distribution? Be sure to use 2 – 3 complete sentences.</para>
+    </section>
+    <section id="id5296077">
+      <title>VI - Increasing the sample size. Repeat the simulation with 500 data values. </title>
+      <para id="id1169371009148">1. Using Minitab, calculate the following (include the session window):</para>
+      <para id="id1169365628103"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {overline  {x}} } {}</m:annotation></m:semantics></m:math> = _________ s = _________ 1<sup>st</sup> quartile = _________</para>
+      <para id="id1169365527915">40th percentile = _________ (justify) 3rd quartile = _________  median = _________</para>
+      <para id="id1169367283906">2. Does this data appear to reflect the theoretical data more closely than the original? Be sure to use 2 – 3 complete sentences. (<emphasis effect="bold">Be specific.</emphasis>)</para>
+      <para id="id1169371559827">3. Create a histogram with 5 bars and using density for the y-axis and box plot for this data. (attach to this lab) </para>
+      <para id="id1169365150766">4. How do these compare to the theoretical distribution? Be sure to use 2 – 3 complete sentences. (<emphasis effect="bold">Be specific.</emphasis>)</para>
+    </section>
+  </content>
+</document>

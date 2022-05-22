@@ -1,0 +1,273 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Confidence Intervals: Confidence Interval Lab III (edited: Teegarden)</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>be548135-6486-4938-80ea-ab75a0746613</md:uuid>
+</metadata>
+   <content>
+    <para id="id11579196">Class Time: </para>
+    <para id="id13027182">Name:</para>
+    <section id="id-5649666681">
+      <title>Student Learning Outcomes: </title>
+      <list list-type="bulleted" id="id8761076">
+        <item>The student will calculate a 90% confidence interval using the given data.</item>
+        <item>The student will examine the relationship between the confidence level and the percent of constructed intervals that contain the population average. </item>
+      </list>
+    </section>
+    <section id="element-7"><title>Given:</title><list id="list-97587234" list-type="enumerated"><item><table id="id1319758f0167" summary="Table presenting women's heights in 100 cells."><title>Heights of 100 Women (in Inches)</title>
+			<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+				<colspec colnum="2" colname="c2"/>
+				<colspec colnum="3" colname="c3"/>
+				<colspec colnum="4" colname="c4"/>
+				<colspec colnum="5" colname="c5"/>
+				<tbody>
+					<row>
+						<entry>59.4</entry>
+						<entry>71.6</entry>
+						<entry>69.3</entry>
+						<entry>65.0</entry>
+						<entry>62.9</entry>
+					</row>
+					<row>
+						<entry>66.5</entry>
+						<entry>61.7</entry>
+						<entry>55.2</entry>
+						<entry>67.5</entry>
+						<entry>67.2</entry>
+					</row>
+					<row>
+						<entry>63.8</entry>
+						<entry>62.9</entry>
+						<entry>63.0</entry>
+						<entry>63.9</entry>
+						<entry>68.7</entry>
+					</row>
+					<row>
+						<entry>65.5</entry>
+						<entry>61.9</entry>
+						<entry>69.6</entry>
+						<entry>58.7</entry>
+						<entry>63.4</entry>
+					</row>
+					<row>
+						<entry>61.8</entry>
+						<entry>60.6</entry>
+						<entry>69.8</entry>
+						<entry>60.0</entry>
+						<entry>64.9</entry>
+					</row>
+					<row>
+						<entry>66.1</entry>
+						<entry>66.8</entry>
+						<entry>60.6</entry>
+						<entry>65.6</entry>
+						<entry>63.8</entry>
+					</row>
+					<row>
+						<entry>61.3</entry>
+						<entry>59.2</entry>
+						<entry>64.1</entry>
+						<entry>59.3</entry>
+						<entry>64.9</entry>
+					</row>
+					<row>
+						<entry>62.4</entry>
+						<entry>63.5</entry>
+						<entry>60.9</entry>
+						<entry>63.3</entry>
+						<entry>66.3</entry>
+					</row>
+					<row>
+						<entry>61.5</entry>
+						<entry>64.3</entry>
+						<entry>62.9</entry>
+						<entry>60.6</entry>
+						<entry>63.8</entry>
+					</row>
+					<row>
+						<entry>58.8</entry>
+						<entry>64.9</entry>
+						<entry>65.7</entry>
+						<entry>62.5</entry>
+						<entry>70.9</entry>
+					</row>
+					<row>
+						<entry>62.9</entry>
+						<entry>63.1</entry>
+						<entry>62.2</entry>
+						<entry>58.7</entry>
+						<entry>64.7</entry>
+					</row>
+					<row>
+						<entry>66.0</entry>
+						<entry>60.5</entry>
+						<entry>64.7</entry>
+						<entry>65.4</entry>
+						<entry>60.2</entry>
+					</row>
+					<row>
+						<entry>65.0</entry>
+						<entry>64.1</entry>
+						<entry>61.1</entry>
+						<entry>65.3</entry>
+						<entry>64.6</entry>
+					</row>
+					<row>
+						<entry>59.2</entry>
+						<entry>61.4</entry>
+						<entry>62.0</entry>
+						<entry>63.5</entry>
+						<entry>61.4</entry>
+					</row>
+					<row>
+						<entry>65.5</entry>
+						<entry>62.3</entry>
+						<entry>65.5</entry>
+						<entry>64.7</entry>
+						<entry>58.8</entry>
+					</row>
+					<row>
+						<entry>66.1</entry>
+						<entry>64.9</entry>
+						<entry>66.9</entry>
+						<entry>57.9</entry>
+						<entry>69.8</entry>
+					</row>
+					<row>
+						<entry>58.5</entry>
+						<entry>63.4</entry>
+						<entry>69.2</entry>
+						<entry>65.9</entry>
+						<entry>62.2</entry>
+					</row>
+					<row>
+						<entry>60.0</entry>
+						<entry>58.1</entry>
+						<entry>62.5</entry>
+						<entry>62.4</entry>
+						<entry>59.1</entry>
+					</row>
+					<row>
+						<entry>66.4</entry>
+						<entry>61.2</entry>
+						<entry>60.4</entry>
+						<entry>58.7</entry>
+						<entry>66.7</entry>
+					</row>
+					<row>
+						<entry>67.5</entry>
+						<entry>63.2</entry>
+						<entry>56.6</entry>
+						<entry>67.7</entry>
+						<entry>62.5</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</table>
+
+Listed above are the heights of 100 women. Use MiniTab to randomly select 10
+data values.</item>
+	<item>Calculate the sample mean and sample standard deviation. Assume that the population standard
+deviation is known to be 3.3. With these values, construct a 90% confidence interval for your sample of
+10 values. Write the confidence interval you obtained in the first space of the table below.</item>
+	<item>
+Now write your confidence interval on the board. As others in the class write their confidence intervals
+on the board, copy them into the table below:
+<table id="element-838" summary="Blank table of 40 empty cells.">
+
+<title>90% Confidence Intervals</title>
+<tgroup cols="5"><tbody>
+		<row>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________	</entry>
+		</row>
+		
+<row>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________	</entry>
+		</row>
+	
+
+<row>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________	</entry>
+		</row>
+		
+
+<row>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________	</entry>
+		</row>
+		
+
+<row>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________	</entry>
+		</row>
+	
+
+<row>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________	</entry>
+		</row>
+		
+
+<row>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________	</entry>
+		</row>
+	
+
+<row>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________ </entry>
+<entry>__________	</entry>
+		</row>
+		
+
+	</tbody>
+
+</tgroup>
+</table></item>
+</list>
+</section><section id="element-313"><title>Discussion Questions</title><list id="element-563" list-type="enumerated"><item>The actual population mean for the 100 heights given above is <m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mi>μ</m:mi><m:mo stretchy="false">=</m:mo><m:mtext>63</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mn>4</m:mn></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ="63" "." 4} {}</m:annotation></m:semantics></m:math>. Using the class listing of confidence intervals, count how many of them contain the population mean 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>μ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ} {}</m:annotation></m:semantics></m:math>; i.e., for how many intervals does the value of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>μ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ} {}</m:annotation></m:semantics></m:math> lie between the endpoints of the confidence interval?</item>
+	<item>Divide this number by the total number of confidence intervals generated by the class to determine the percent of confidence intervals that contain the mean 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>μ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ} {}</m:annotation></m:semantics></m:math>. Write this percent below.</item>
+	<item>Is the percent of confidence intervals that contain the population mean 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>μ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ} {}</m:annotation></m:semantics></m:math> close to 90%? </item>
+	<item>Suppose we had generated 100 confidence intervals. What do you think would happen to the percent of confidence intervals that contained the population mean?</item>
+	<item>When we construct a 90% confidence interval, we say that we are <emphasis>90% confident that the true population mean lies within the confidence interval. </emphasis>Using complete sentences, explain what we mean by this phrase.</item>
+	<item>Some students think that a 90% confidence interval contains 90% of the data. Use the list of data given on the first page and count how many of the data values lie within the confidence interval that you generated on that page. How many of the 100 data values lie within your confidence interval? What percent is this? Is this percent close to 90%?</item>
+	<item>Explain why it does not make sense to count data values that lie in a confidence interval. Think about the random variable that is being used in the problem.</item>
+	<item>Suppose you obtained the heights of 10 women and calculated a confidence interval from this information. Without knowing the population mean 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>μ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ} {}</m:annotation></m:semantics></m:math>, would you have any way of knowing <emphasis>for certain</emphasis> if your interval actually contained the value of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>μ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{μ} {}</m:annotation></m:semantics></m:math>? Explain.</item>
+</list></section>
+      
+      <note id="idp11486624"><cite><cite-title>This lab was designed and contributed by Diane Mathios.</cite-title></cite></note>
+    
+  </content>
+</document>

@@ -1,0 +1,119 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Central Limit Theorem: Central Limit Theorem Lab I (edited: Teegarden)</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>d051dbcf-2664-4620-aa00-08fa8dc7396d</md:uuid>
+</metadata>
+  <content>
+    <para id="id48439801">Class Time: </para>
+    
+    <para id="id48439812">Name:</para>
+    <section id="id-13408085878"><title>Student Learning Outcomes:</title>
+      
+      <list list-type="bulleted" id="id48439824">
+        <item>The student will examine properties of the Central Limit Theorem.</item>
+      </list>
+
+    </section>
+    <section id="element-573"><title>Collect the Data</title><list id="list-9099999888" list-type="enumerated" mark-suffix="."><item>Using the random number generator in minitab, simulate the tossing of a single die 60 times. Calc -&gt; Random Data -&gt; Integer</item>
+	<item>Using Stat -&gt; Tables -&gt; Tally, summarize the data
+	</item>
+	<item>Construct a histogram using Minitab and then sketch the graph using a ruler and pencil. Scale
+the axes.<figure id="idm1969792"><media id="idm7822480" alt="Blank graph with frequency on the vertical axis and value on the die on the horizontal axis."><image src="../../media/replace.png" mime-type="image/png" print-width="4in"/></media></figure></item>
+	<item> Caluclate the following:
+<list id="list-975947" list-type="labeled-item" mark-suffix=".">
+			<item><label>a</label><m:math>
+					<m:apply>
+						<m:conjugate/>
+						<m:ci>x</m:ci>
+					</m:apply>
+				</m:math>
+=</item>
+			<item><label>b</label>
+				<m:math><m:mi>s</m:mi></m:math>
+=</item>
+			<item><label>c</label>
+				<m:math>
+					<m:mi>n</m:mi>
+					<m:mo>=</m:mo>
+					<m:mn>1</m:mn>
+				</m:math>
+(single die)
+</item>
+		</list></item>
+	<item>Draw a smooth curve through the tops of the bars of the histogram. Use 1 – 2 complete
+sentences to describe the general shape of the curve.</item>
+</list></section><section id="element-642"><title>Collecting Averages of Pairs</title><para id="element-509">Repeat steps 1 - 5 (of the section above titled "Collect the Data") with one exception. Instead of recording the value of a single die, record the average of two dice.  Use Minitab and generate 50 rows with two columns.  Then use the Calc -&gt; Row Statistics and select mean. 
+
+Then use Stats -&gt; Tables -&gt; Tally to summarize the data.</para><list id="list-9759443" list-type="enumerated" mark-suffix="."><item>Construct a histogram. Scale the axes using the same scaling you did for the section titled "Collecting the Data". Sketch the
+graph using a ruler and a pencil.<figure id="idm4662160"><media id="idm9248320" alt="Blank graph with frequency on the vertical axis and value on the die on the horizontal axis."><image src="../../media/replace.png" mime-type="image/png" print-width="4in"/></media></figure></item>
+	<item> Calculate the following:
+<list id="list-975875947" list-type="labeled-item" mark-suffix=".">
+			<item><label>a</label><m:math>
+					<m:apply>
+						<m:conjugate/>
+						<m:ci>x</m:ci>
+					</m:apply>
+				</m:math>
+=</item>
+			<item><label>b</label>
+				<m:math><m:mi>s</m:mi></m:math>
+=</item>
+			<item><label>c</label>
+				<m:math>
+					<m:mi>n</m:mi>
+					<m:mo>=</m:mo>
+					<m:mn>2</m:mn>
+				</m:math>
+(surveying one person at a time)
+</item>
+		</list></item>
+	<item>Draw a smooth curve through tops of the bars of the histogram. Use 1 – 2 complete sentences
+to describe the general shape of the curve.</item></list></section><section id="element-143"><title>Collecting Averages of Groups of Five</title><para id="element-505436759">Repeat steps 1 – 5 (of part I) with one exception. Instead of recording the value for a single die, record the average value for each of the 50 groups of 5 die tosses.
+</para><list id="list-9735659975974443" list-type="enumerated" mark-suffix="."><item>Generate fifty <emphasis>groups of 5</emphasis> die tosses. Record the values of the average of their
+value.
+	</item>
+	<item>Construct a histogram. Scale the axes using the same scaling you did for section titled "Collect the Data". Sketch the
+graph using a ruler and a pencil.<figure id="idm1004544"><media id="idm992032" alt="Blank graph with frequency on the vertical axis and value on the die on the horizontal axis."><image src="../../media/replace.png" mime-type="image/png" print-width="4in"/></media></figure></item>
+	<item> Calculate the following:
+<list id="list-97587555947" list-type="labeled-item" mark-suffix=".">
+			<item><label>a</label><m:math>
+					<m:apply>
+						<m:conjugate/>
+						<m:ci>x</m:ci>
+					</m:apply>
+				</m:math>
+=</item>
+			<item><label>b</label>
+				<m:math><m:mi>s</m:mi></m:math>
+=</item>
+			<item><label>c</label>
+				<m:math>
+					<m:mi>n</m:mi>
+					<m:mo>=</m:mo>
+					<m:mn>5</m:mn>
+				</m:math>
+(surveying five people at a time)
+</item>
+		</list></item>
+	<item>Draw a smooth curve through tops of the bars of the histogram. Use 1 – 2 complete sentences
+to describe the general shape of the curve.</item></list></section><section id="element-578"><title>Collecting Averages of Groups of 20</title>
+<para id="element-311">Repeat steps 1 – 5 (of part I) recording the average value for each of the 50 groups of 20 die tosses.
+</para><list id="element-480" list-type="enumerated"><item>Generate fifty <emphasis>groups of 20</emphasis> die tosses. Record the values of the average of their
+value.
+	</item>
+<item>Construct a histogram. Scale the axes using the same scaling you did for section titled "Collect the Data". Sketch the
+graph using a ruler and a pencil.<figure id="idm7395952"><media id="idm14621232" alt="Blank graph with frequency on the vertical axis and value on the die on the horizontal axis."><image src="../../media/replace.png" mime-type="image/png" print-width="4in"/></media></figure></item>
+
+<item>Calculate the following</item>
+
+
+<item>Draw a smooth curve through tops of the bars of the histogram. Use 1 – 2 complete sentences
+to describe the general shape of the curve.</item></list></section><section id="element-854"><title>Discussion Questions</title><list id="element-441" list-type="enumerated"><item>As 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n} {}</m:annotation></m:semantics></m:math> changed, why did the shape of the distribution of the data change? Use 1 – 2 complete sentences to explain what happened.</item>
+	<item> In the section titled "Collect the Data", what was the approximate distribution of the data? <m:math><m:mi>X</m:mi></m:math> ~ </item>
+	<item>In the section titled "Collecting Averages of Groups of Five", what was the approximate distribution of the data?
+<m:math><m:mi>X</m:mi></m:math> ~</item>
+<item>In the section titled "Collecting Averages of Groups of Twenty", what was the approximate distribution of the data?
+<m:math><m:mi>X</m:mi></m:math> ~</item>
+	<item>In 1 – 2 complete sentences, explain any differences in your answers to previous three questions.</item></list></section>
+  </content>
+</document>

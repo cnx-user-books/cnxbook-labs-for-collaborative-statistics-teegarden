@@ -1,0 +1,65 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Hypothesis Testing of Single Mean and Single Proportion: Lab (Edited: Teegarden) 02</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>439d4c68-794e-46b4-ae9e-b749ae100724</md:uuid>
+</metadata>
+  <content>
+    <para id="id9325443">Class Time: </para>
+    <para id="id9325450">Name:</para>
+    <section id="id-211950453705">
+      <title>Student Learning Outcomes: </title>
+      <list list-type="bulleted" id="id3727711">
+        <item>The student will select the appropriate distributions to use in each case.</item>
+        <item>The student will conduct hypothesis tests and interpret the results.</item>
+      </list>
+    </section>
+    <section id="element-695"><title>Television Survey</title><para id="element-692">The data in the Testbook.mtw file lists the cost of 62 books required for classes in Summer 2008 at Mesa College.  Students believe that they are spending on average $100 for their textbooks.  Using the data for new books as the sample, conduct a hypothesis test to determine if the average cost of new textbooks at Mesa is lower.
+</para>
+<list id="list-9283749" list-type="enumerated" mark-suffix="."><item><m:math><m:msub><m:mi>H</m:mi>
+<m:mi>o</m:mi>
+</m:msub>
+</m:math>:
+</item>
+<item><m:math><m:msub><m:mi>H</m:mi>
+<m:mi>a</m:mi>
+</m:msub>
+</m:math>:
+</item>
+<item>
+In words, define the random variable. __________ =
+</item>
+<item>The distribution to use for the test is:</item>
+<item>Calculate the test statistic using your data.</item>
+<item>Draw a graph and label it appropriately.
+<list id="list-25986787634" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Graph:<figure id="idm2363200"><media id="idm3853616" alt="Blank graph with vertical and horizontal axes."><image src="../../media/normal-curve.jpg" mime-type="image/jpeg" print-width="4in"/></media></figure></item>
+<item><label>b</label>Calculate the p-value:</item>
+</list></item>
+<item>Do you or do you not reject the null hypothesis? Why?</item>
+<item>Write a clear conclusion using a complete sentence.</item>
+</list></section><section id="element-837"><title>Language Survey</title><para id="element-40">
+According to the 2000 Census, about 39.5% of Californians and 17.9% of all Americans speak a language other than English at home. Using your class as the sample, conduct a hypothesis test to determine if the percent of the students at your school that speak a language other than English at home is different from 39.5%.
+</para>
+<list id="list-2349867965" list-type="enumerated" mark-suffix="."><item><m:math><m:msub><m:mi>H</m:mi>
+<m:mi>o</m:mi>
+</m:msub>
+</m:math>:
+</item>
+<item><m:math><m:msub><m:mi>H</m:mi>
+<m:mi>a</m:mi>
+</m:msub>
+</m:math>:
+</item>
+<item>In words, define the random variable. __________ =</item>
+<item> The distribution to use for the test is:</item>
+<item>Calculate the test statistic using your data.</item>
+<item>Draw a graph and label it appropriately. Shade the actual level of significance.
+<list id="list-234978687" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>
+Graph:<figure id="idm10771680"><media id="idm2565744" alt="Blank graph with vertical and horizontal axes."><image src="../../media/normal-curve.jpg" mime-type="image/jpeg" print-width="4in"/></media></figure></item>
+<item><label>b</label>Calculate the p-value:</item>
+</list></item>
+<item> Do you or do you not reject the null hypothesis? Why?</item>
+<item> Write a clear conclusion using a complete sentence.</item>
+</list></section>
+  </content>
+</document>

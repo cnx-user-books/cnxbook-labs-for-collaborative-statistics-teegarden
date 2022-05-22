@@ -1,0 +1,117 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Hypothesis Testing of Two Means and Two Proportions: Lab I (edited: Teegarden 02)</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>1458c2d2-05d7-4183-8730-e70de9825a4f</md:uuid>
+</metadata>
+  <content>
+    <para id="id5260693">Class Time: </para>
+    <para id="id6186867">Name:</para>
+    <section id="id-488183786794">
+      <title>Student Learning Outcomes: </title>
+      <list list-type="bulleted" id="id3866304">
+        <item>The student will select the appropriate distributions to use in each case.</item>
+        <item>The student will conduct hypothesis tests and interpret the results.</item>
+      </list>
+    </section>
+    <section id="element-737"><title>Increasing Stocks Survey</title><para id="element-304">Look at yesterday’s newspaper business section. Conduct a hypothesis test to determine if
+the proportion of New York Stock Exchange (NYSE) stocks that increased is greater than the
+proportion of NASDAQ stocks that increased. As randomly as possible, choose 40 NYSE
+stocks and 32 NASDAQ stocks and input the data into a Minitab worksheet.  
+Complete the following statements.
+
+</para>
+<list id="list-86476434" list-type="enumerated" mark-suffix=".">
+<item><m:math>
+<m:msub>
+<m:mi>H</m:mi>
+<m:mi>o</m:mi>
+</m:msub>
+</m:math>
+</item>
+<item>
+<m:math>
+<m:msub>
+<m:mi>H</m:mi>
+<m:mi>a</m:mi>
+</m:msub>
+</m:math>
+</item>
+<item>
+In words, define the Random Variable. ____________=</item>
+<item>
+The distribution to use for the test is:</item>
+<item>
+Calculate the test statistic using your data.</item>
+<item>Draw a graph and label it appropriately. Shade the actual level of significance.
+<list id="list-875872354" list-type="labeled-item" mark-suffix=".">
+<item><label>a</label>Graph:
+<figure id="idm7898496"><media id="idm13333984" alt="Blank graph with vertical and horizontal axes."><image src="../../media/normal-curve.jpg" mime-type="image/jpeg" print-width="4in"/></media></figure></item>
+<item><label>b</label>Calculate the p-value:</item>
+</list>
+</item>
+<item>Do you reject or not reject the null hypothesis? Why?</item>
+<item>Write a clear conclusion using a complete sentence.</item>
+</list></section>
+    <section id="element-518"><title>Textbook Prices</title><para id="element-687">The data in Textbook.mtw shows the price for both the new and used textbook price for books required for summer 2008 classes at Mesa College.  Is it worthwhile to buy used textbooks?
+</para><list id="element-926" list-type="enumerated" mark-suffix="."><item><m:math>
+			<m:msub>
+				<m:mi>H</m:mi>
+				<m:mi>o</m:mi>
+			</m:msub>
+		</m:math>
+	</item>
+	<item>
+		<m:math>
+			<m:msub>
+				<m:mi>H</m:mi>
+				<m:mi>a</m:mi>
+			</m:msub>
+		</m:math>
+	</item>
+	<item>
+In words, define the Random Variable. ____________=</item>
+	<item>
+The distribution to use for the test is:</item>
+	<item>
+Calculate the test statistic using your data.</item>
+	<item>Draw a graph and label it appropriately. Shade the actual level of significance.
+<list id="list-8758723552564" list-type="labeled-item" mark-suffix=".">
+			<item><label>a</label>Graph:<figure id="idm2971984"><media id="idm3174432" alt="Blank graph with vertical and horizontal axes."><image src="../../media/normal-curve.jpg" mime-type="image/jpeg" print-width="4in"/></media></figure></item>
+			<item><label>b</label>Calculate the p-value:</item>
+		</list>
+	</item>
+	<item>Do you reject or not reject the null hypothesis? Why?</item>
+	<item>Write a clear conclusion using a complete sentence.</item>
+</list></section><section id="element-164"><title>Shoe Survey</title><para id="element-858234">Test whether women have, on average, more pairs of shoes than men. Include all forms of sneakers, shoes, sandals, and boots. Use your class as the sample.</para>
+
+<list id="list287" list-type="enumerated" mark-suffix="."><item><m:math>
+			<m:msub>
+				<m:mi>H</m:mi>
+				<m:mi>o</m:mi>
+			</m:msub>
+		</m:math>
+	</item>
+	<item>
+		<m:math>
+			<m:msub>
+				<m:mi>H</m:mi>
+				<m:mi>a</m:mi>
+			</m:msub>
+		</m:math>
+	</item>
+	<item>
+In words, define the Random Variable. ____________=</item>
+	<item>
+The distribution to use for the test is:</item>
+	<item>
+Calculate the test statistic using your data.</item>
+	<item>Draw a graph and label it appropriately. Shade the actual level of significance.
+<list id="list-8758723875552564" list-type="labeled-item" mark-suffix=".">
+			<item><label>a</label>Graph:<figure id="idm4672272"><media id="idm4556976" alt="Blank graph with vertical and horizontal axes."><image src="../../media/normal-curve.jpg" mime-type="image/jpeg" print-width="4in"/></media></figure></item>
+			<item><label>b</label>Calculate the p-value:</item>
+		</list>
+	</item>
+	<item>Do you reject or not reject the null hypothesis? Why?</item>
+	<item>Write a clear conclusion using a complete sentence.</item>
+</list></section>
+  </content>
+</document>

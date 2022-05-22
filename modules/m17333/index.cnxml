@@ -1,0 +1,58 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Descriptive Statistics: Descriptive Statistics Lab (edited: Teegarden)</title>
+  <metadata>
+  <md:content-id>m17333</md:content-id><md:title>Descriptive Statistics: Descriptive Statistics Lab (edited: Teegarden)</md:title>
+  <md:abstract>Labs changed to incorporate mini-tabs.</md:abstract>
+  <md:uuid>d590a2a6-95e3-482f-a8b7-bcf4ca862b6a</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1165660007435">
+      <emphasis>Descriptive Statistics Lab</emphasis>
+    </para>
+    <para id="id1165659442149">Name: <emphasis effect="underline"/></para>
+    <section id="id7398157">
+      <title>A. Student Learning Objectives</title>
+      <para id="id1165659619054">• The student will construct a histogram and a box plot.</para>
+      <para id="id1165659582730">• The student will calculate univariate statistics.</para>
+      <para id="id8577479">• The student will examine the graphs to interpret what the data implies.</para>
+    </section>
+    <section id="id1165659841185">
+      <title>B. Collect the Data</title>
+      <para id="id1165659820701">Record the number of pairs of shoes you own: <emphasis effect="underline"/></para>
+      <para id="id1165659984363">1. Randomly survey 20 people. Record their values. Survey Results</para>
+      <para id="id1165660118348">_____ _____ _____ _____ _____ _____ _____ _____ _____ _____</para>
+      <para id="id8267918">_____ _____ _____ _____ _____ _____ _____ _____ _____ _____</para>
+      <para id="id1165658895800">2. Construct a histogram using Minitab. Choose an appropriate scale and use boundary values (cut points). </para>
+      <para id="id1165660251505">3. Calculate the following: Be sure to include the formulas and the appropriate values. Show your work</para>
+      <para id="id1165660118492">• 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {overline  {x}} } {}</m:annotation></m:semantics></m:math>=</para>
+      <para id="id7154816">• s =</para>
+      <para id="id1165659438843">4. Are the data discrete or continuous?<emphasis effect="underline"/> How do you know? Use complete sentences.</para>
+      <para id="id7383655">5. Describe the shape of the histogram. Use 2 – 3 complete sentences.</para>
+    </section>
+    <section id="id7170486">
+      <title>C. Analyze the Data</title>
+      <para id="id1165665357643">1. Determine the following and show your work where appropriate:</para>
+      <para id="id1165658985224">• Minimum value =</para>
+      <para id="id7204741">• Median =</para>
+      <para id="id1165660167370">• Maximum value =</para>
+      <para id="id1165659331792">• First quartile =</para>
+      <para id="id7530786">• Third quartile =</para>
+      <para id="id1165658848256">• IQR =</para>
+      <para id="id1165660997594">2. Using Minitab, construct a box plot of data.</para>
+      <para id="id7059232">3. What does the shape of the box plot imply about the concentration of data? Use 2 – 3 complete sentences.</para>
+      <para id="id8111567">4. What does the IQR represent in <emphasis effect="underline">this problem</emphasis>? (reference your values)</para>
+      <para id="id1165659911931">5. Are there any potential outliers? <emphasis effect="underline"/>Which value(s) is (are) it (they)?<emphasis effect="underline"/></para>
+      <para id="id7383461">Use the formula to calculate the two end values used to determine if a data value is an outlier.</para>
+      <para id="id1165659351285"> upper = </para>
+      <para id="id1165660141118"> lower = </para>
+      <para id="id1165659935235">6. Show your work to find the value that is 1.5 standard deviations:</para>
+      <para id="id7309745">a. Above the mean:</para>
+      <para id="id1165660052683">b. Below the mean:</para>
+      <para id="id1165658575491">c. What percent of the data does Chebyshev’s theorem state lies within 1.5 standard deviations of the mean? (show your work.)</para>
+      <para id="id1165659307784">d. What percentage of your data actually falls within 1.5 standard deviations of the mean? How does this compare to the value you calculated in part c above?</para>
+      <para id="id1084944">7. How does the standard deviation help you to determine concentration of the data and whether or not there are potential outliers?</para>
+    </section>
+  </content>
+</document>

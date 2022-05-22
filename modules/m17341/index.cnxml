@@ -1,0 +1,91 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Confidence Intervals: Confidence Interval Lab II (edited: Teegarden)</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>65143c60-3500-45ab-881a-638fb8bb0679</md:uuid>
+</metadata>
+  <content>
+    <para id="id6317858">Class Time: </para>
+    <para id="id6317864">Name:</para>
+    <section id="id-500604764518">
+      <title>Student Learning Outcomes: </title>
+      <list list-type="bulleted" id="id6317875">
+        <item>The student will calculate the 90% confidence interval for proportion of students in this school that were born in this state.</item>
+        <item>The student will interpret confidence intervals.</item>
+        <item>The student will examine the effects that changing conditions has on the confidence interval.</item>
+      </list>
+    </section>
+    <section id="element-614"><title>Collect the Data</title><list id="list-8758234" list-type="enumerated" mark-suffix="."><item>Survey the students in your class, asking them if they were born in this state. Let 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>X</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{X} {}</m:annotation></m:semantics></m:math> = the number that were born in this state.<list id="list986y" list-type="labeled-item" mark-suffix=".">
+			<item><label>a</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{n} {}</m:annotation></m:semantics></m:math> =<m:math><m:mtext>____________</m:mtext></m:math></item>
+			<item><label>b</label><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>x</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x} {}</m:annotation></m:semantics></m:math> =<m:math><m:mtext>____________</m:mtext></m:math>
+			</item>
+		</list>
+	</item>
+	<item>Define the Random Variable 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>P</m:mi><m:mi>'</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{P'} {}</m:annotation></m:semantics></m:math> in words. </item>
+	<item>State the estimated distribution to use. </item>
+</list></section><section id="element-373"><title>Find the Confidence Interval and Error Bound</title><list id="list-9758575342" list-type="enumerated" mark-suffix="."><item>Calculate the confidence interval and the error bound.
+<list id="list-858645876" list-type="labeled-item" mark-suffix=".">
+			<item><label>a</label>
+Confidence Interval:</item>
+			<item><label>b</label>Error Bound:</item>
+		</list>
+	</item>
+	<item> How much area is in both tails (combined)? <m:math><m:mi>α</m:mi></m:math>=</item>
+	<item>How much area is in each tail?
+<m:math>
+			<m:mfrac>
+				<m:mi>α</m:mi>
+				<m:mn>2</m:mn>
+			</m:mfrac>
+		</m:math>
+=</item>
+	<item>Fill in the blanks on the graph with the area in each section. Then, fill in the number
+line with the upper and lower limits of the confidence interval and the sample proportion.
+<figure id="idp768576"><media id="idm3125648" alt="Normal distribution curve with two vertical upward lines from the x-axis to the curve. The confidence interval is between these two lines. The residual areas are on either side."><image src="../../media/wave1.PNG" mime-type="image/png" print-width="3in"/></media></figure></item>
+<item>How large a sample would be needed to ensure that the error for the 90% confidence interval is only 5%?  Use the previous data as an estimate for p.</item>
+<item>Recalculate the sample size assuming there is no previous data.</item></list></section><section id="element-850"><title>Describe the Confidence Interval</title><list id="list-97584" list-type="enumerated"><item>In two to three complete sentences, explain what a Confidence Interval means (in general), as
+if you were talking to someone who has not taken statistics.</item>
+	<item>In one to two complete sentences, explain what this Confidence Interval means for this
+particular study.</item>
+	<item> Using the above information, construct a confidence interval for each given confidence
+level given.
+<table id="id6699poi200" summary="Partially blank table with confidence level in the first column, EBM/Error Bound in the blank second column, and confidence interval in the blank third column.">
+
+			<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+				<colspec colnum="2" colname="c2"/>
+				<colspec colnum="3" colname="c3"/>
+				<thead>
+					<row>
+						<entry>Confidence level</entry>
+						<entry>EBP / Error Bound</entry>
+						<entry>Confidence Interval</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry align="center">50%</entry>
+						<entry/>
+						<entry/>
+					</row>
+					<row>
+						<entry align="center">80%</entry>
+						<entry/>
+						<entry/>
+					</row>
+					<row>
+						<entry align="center">95%</entry>
+						<entry/>
+						<entry/>
+					</row>
+					<row>
+						<entry align="center">99%</entry>
+						<entry/>
+						<entry/>
+					</row>
+				</tbody>
+			</tgroup>
+		</table></item>
+	<item>What happens to the EBP as the confidence level increases? Does the width of the
+confidence interval increase or decrease? Explain why this happens.</item></list></section>
+  </content>
+</document>

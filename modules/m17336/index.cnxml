@@ -1,0 +1,202 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Discrete Random Variables: Lab I (edited: Teegarden)</title>
+  <metadata>
+  <md:content-id>m17336</md:content-id><md:title>Discrete Random Variables: Lab I (edited: Teegarden)</md:title>
+  <md:abstract>This module allows students to explore concepts related to discrete random variables through the use of a simple playing card experiment.  Students will compare empirical data to a theoretical distribution to determine if the experiment fist a discrete distribution.  This lab involves the concept of long-term probabilities. Labs changed to incorporate mini-tabs.</md:abstract>
+  <md:uuid>bf6e95a9-1293-4a1e-a9dc-795592cf5ac1</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1164861619108">
+      <emphasis>Discrete Probability Lab</emphasis>
+    </para>
+    <para id="id1164861197690">Name:<emphasis effect="underline"/></para>
+    <section id="id5015397">
+      <title>Student Learning Outcomes:</title>
+      <list id="id1164861193871" list-type="bulleted">
+        <item>The student will compare empirical data and a theoretical distribution to determine if everyday experiment fits a discrete distribution. </item>
+        <item>The student will demonstrate an understanding of long-term probabilities.</item>
+      </list>
+      <para id="id1164850737906"><emphasis effect="bold">Procedure: </emphasis>The experiment procedure is to pick one card from a deck of shuffled cards.</para>
+      <list id="id8580560" list-type="enumerated" number-style="arabic">
+        <item>The theoretical probability of picking a diamond from a deck is: <emphasis effect="underline"/></item>
+        <item>Shuffle a deck of cards and pick one card from it and record whether it was a diamond or not a diamond.</item>
+        <item>Put the card back and reshuffle. </item>
+        <item>Do this a total of 10 times and record the number of diamonds picked. <emphasis effect="underline"/></item>
+        <item>What is the experimental probability of drawing a diamond?  <emphasis effect="underline"/></item>
+        <item>How does the experimental probability compare to the theoretical probability? (high/low/about the same)</item>
+      </list>
+      <para id="id4691765">Using Minitab, simulate this experiment (drawing a card 10 times and recording the number of diamonds) for a total of 50 times. <emphasis effect="bold">Use Calc -&gt; Random data -&gt; Binomia</emphasis>l.</para>
+    </section>
+    <section id="id4104393">
+      <title>I Organize the Data: </title>
+      <section id="id1164862517425">
+        <title>Summarize the data generated in Minitab and include determine both the frequency and relative frequency. Record the result here: </title>
+        <table id="id4534880" summary="">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry>X</entry>
+                <entry>Frequency</entry>
+                <entry>Relative Frequency</entry>
+              </row>
+              <row>
+                <entry>0</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>5</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>6</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>7</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>8</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>9</entry>
+                <entry/>
+                <entry/>
+              </row>
+              <row>
+                <entry>10</entry>
+                <entry/>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id6697518">2. Calculate the following using Minitab. (include the session window)</para>
+        <para id="id6946892"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>x</m:mi><m:mo>¯</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {overline  {x}} } {}</m:annotation></m:semantics></m:math>= ________________________  s = ________________________</para>
+        <para id="id1164861171240">3. Construct a bar chart of the experimental data using the relative frequency as the vertical axis and attach it to this cover sheet. Don’t forget a title and labels for the graph</para>
+      </section>
+    </section>
+    <section id="id2303588">
+      <title>II. Theoretical Distribution</title>
+      <para id="id4587910">1. Using Minitab, build the theoretical PDF chart for X based on the distribution in the section above.</para>
+      <table id="id5102294" summary="">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>X</entry>
+              <entry>P(X)</entry>
+            </row>
+            <row>
+              <entry>0</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>1</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>2</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>3</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>4</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>5</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>6</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>7</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>8</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>9</entry>
+              <entry/>
+            </row>
+            <row>
+              <entry>10</entry>
+              <entry/>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4857441"/>
+      <para id="id8544829">2. Calculate the following, <emphasis effect="bold">indicating the formulas</emphasis>:</para>
+      <para id="id1164851229552">μ = ________________________  σ = ________________________</para>
+      <para id="id1164850962435">3. Constuct a graph of the theoretical distribution by using:</para>
+      <para id="id1164849692470">
+        <emphasis effect="bold">graph </emphasis>
+        <emphasis effect="bold">→</emphasis>
+        <emphasis effect="bold"> probability distribution plot </emphasis>
+        <emphasis effect="bold">→</emphasis>
+        <emphasis effect="bold"> single view </emphasis>
+        <emphasis effect="bold">→</emphasis>
+        <emphasis effect="bold"> Binomial</emphasis>
+      </para>
+      <para id="id1164865439550"> Attach the graph to this cover sheet.</para>
+    </section>
+    <section id="id6967319">
+      <title>III. Using the Data</title>
+      <para id="id6780721">Using the Theoretical probability table generated by Minitab, determine the following theoretical probabilities, rounding to 4 decimal places:</para>
+      <para id="id1164850586431">P(X = 3) =_______________ P(2 &lt; X &lt; 5) = _______________ P(X &gt; 8) _______________</para>
+      <para id="id2521538">Using the data from the Minitab simulation, determine the following empirical (experimental) probabilities:</para>
+      <para id="id4686404">P(X = 3) = _______________ P(2 &lt; X &lt; 5) = _______________ P(X &gt; 8) _______________</para>
+    </section>
+    <section id="id1164861635532">
+      <title>IV. Discussion Questions: </title>
+      <section id="id1164851214941">
+        <title>Answer the following in complete sentences on a separate sheet of paper and attach it to this cover sheet.</title>
+        <list id="id1164855983440" list-type="enumerated" number-style="arabic">
+          <item>Knowing that data vary, describe <emphasis effect="bold">two similarities between the graphs and distributions</emphasis> of the theoretical and experimental distributions. </item>
+          <item>Describe the <emphasis effect="bold">two most significant differences between the graphs or distributions</emphasis> of the theoretical and experimental distributions. </item>
+          <item>Suppose that the experiment had been repeated 500 times. Would you expect the frequency table and bar chart in part I above to change? How and Why? Repeat the experiment and justify your answer. (Be sure to include the data summary and bar chart.)</item>
+        </list>
+      </section>
+    </section>
+  </content>
+</document>
